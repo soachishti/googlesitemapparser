@@ -14,7 +14,7 @@ Install via [composer](https://getcomposer.org) (for awaiting #12 pull request):
         }
     ],
     "require": {
-        "tzfrs/googlesitemapparser": "1.0.7"
+        "soachishti/googlesitemapparser": "*"
     }
 }
 ```

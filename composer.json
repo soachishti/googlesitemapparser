@@ -22,8 +22,8 @@
   },
   "autoload": {
     "psr-4": {
-      "soachishti\\" : "src/",
-      "soachishti\\Tests\\": "tests/"
+      "tzfrs\\" : "src/",
+      "tzfrs\\Tests\\": "tests/"
     }
   }
 }

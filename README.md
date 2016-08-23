@@ -1,4 +1,4 @@
-# Google Sitemap-Parser
+# PHP Sitemap Parser
 An easy-to-use library to parse sitemaps compliant with the Google Standard
 
 ## Install
@@ -7,8 +7,14 @@ Install via [composer](https://getcomposer.org) (for awaiting #12 pull request):
 
 ```javascript
 {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/soachishti/phpsitemapparser.git"
+        }
+    ],
     "require": {
-        "soachishti/googlesitemapparser": "*"
+        "tzfrs/googlesitemapparser": "1.0.8"
     }
 }
 ```

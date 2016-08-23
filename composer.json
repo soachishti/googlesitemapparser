@@ -9,6 +9,11 @@
       "name": "Theo Tzaferis",
       "email": "theo@tzfrs.de",
       "homepage": "http://tzfrs.de"
+    },
+    {
+      "name": "Owais Chishti",
+      "email": "soachishti@outlook.com",
+      "role": "Maintainer"
     }
   ],
   "require": {
@@ -17,8 +22,8 @@
   },
   "autoload": {
     "psr-4": {
-      "tzfrs\\" : "src/",
-      "tzfrs\\Tests\\": "tests/"
+      "soachishti\\" : "src/",
+      "soachishti\\Tests\\": "tests/"
     }
   }
 }

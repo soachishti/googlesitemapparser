@@ -3,10 +3,16 @@ An easy-to-use library to parse sitemaps compliant with the Google Standard
 
 ## Install
 
-Install via [composer](https://getcomposer.org):
+Install via [composer](https://getcomposer.org) (for awaiting #12 pull request):
 
 ```javascript
 {
+    "repositories": [
+        {
+            "url": "https://github.com/soachishti/googlesitemapparser.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "tzfrs/googlesitemapparser": "1.0.7"
     }

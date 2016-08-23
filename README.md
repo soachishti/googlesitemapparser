@@ -7,12 +7,6 @@ Install via [composer](https://getcomposer.org) (for awaiting #12 pull request):
 
 ```javascript
 {
-    "repositories": [
-        {
-            "url": "https://github.com/soachishti/googlesitemapparser.git",
-            "type": "git"
-        }
-    ],
     "require": {
         "soachishti/googlesitemapparser": "*"
     }
